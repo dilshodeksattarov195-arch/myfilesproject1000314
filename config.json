@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerponnect",
+        "uuid": 975598,
+        "checksum": "7t77d"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
